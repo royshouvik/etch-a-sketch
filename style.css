@@ -1,0 +1,24 @@
+.cell{
+
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+}
+
+.wrapper{
+
+	height: 500px;
+	width: 570px;
+}
+
+.coloredcell{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: blue;
+
+}
