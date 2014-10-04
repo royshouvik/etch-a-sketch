@@ -1,6 +1,5 @@
 .cell{
-
-	border:1px solid black;
+	border: 1px solid #dbdbdb;
 	margin: 1px;
 	height: 30px;
 	width: 30px;
@@ -10,15 +9,108 @@
 .wrapper{
 
 	height: 500px;
-	width: 570px;
+	width: 590px;
+	margin: auto;
 }
 
-.coloredcell{
+.one{
 	border:1px solid black;
 	margin: 1px;
 	height: 30px;
 	width: 30px;
 	display: inline-block;
-	background-color: blue;
+	background-color: black;
+	opacity: 0.1;
+}
 
+.two{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: black;
+	opacity: 0.2;
+}
+
+.three{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: black;
+	opacity: 0.3;
+}
+.four{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: black;
+	opacity: 0.4;
+}
+
+.five{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: black;
+	opacity: 0.5;
+}
+.six{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: black;
+	opacity: 0.6;
+}
+.seven{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: black;
+	opacity: 0.7;
+}
+.eight{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: black;
+	opacity: 0.8;
+}
+.nine{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: black;
+	opacity: 0.9;
+}
+.ten{
+	border:1px solid black;
+	margin: 1px;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	background-color: black;
+	opacity: 1;
+}
+p{
+	margin-left: 120px;
+	font-family: sans-serif;
+}
+button{
+	margin-left: 570px;
+	margin-bottom: 20px;
 }
